@@ -1,13 +1,7 @@
 available: false
 id: 3
 mainset:
-- names:
-  - name: Langå
-    probability: 9
-  - name: Holstebro
-    probability: 9
-  - name: Kolding
-    probability: 9
+- names: []
 name: Silkeborg
 source: null
 subsets: []
