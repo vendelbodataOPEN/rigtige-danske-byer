@@ -1,7 +1,15 @@
-available: false
+available: true
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Vinorg
+    probability: 1
+  - name: Viborg
+    probability: 3
+  - name: Silkeborg
+    probability: 1
+  - name: Holstebro
+    probability: 1
 name: jylland
 source: null
 subsets: []
